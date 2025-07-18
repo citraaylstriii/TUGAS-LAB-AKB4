@@ -16,21 +16,21 @@ export default function TugasAkhirMajeri() {
           Muliana{'\n'}(105841103822)
         </Text>
         <Text style={[jeryVisual.itemTeks, { fontFamily: 'Merriweather-Regular', fontSize: 20 }]}>
-          ahmad fathir{'\n'}(105841102922)
+          milani{'\n'}(105841100822)
         </Text>
         <Text style={[jeryVisual.itemTeks, { fontFamily: 'Nunito-Light', color: '#333' }]}>
-          Muhammad Faturrachman iswan{'\n'}(105841103322)
+          nabila ismail matta{'\n'}(105841100722)
         </Text>
         <Text style={[jeryVisual.itemTeks, { fontFamily: 'PlayfairDisplay-Regular', fontStyle: 'italic' }]}>
           Nurmisba{'\n'}(105841103422)
         </Text>
         <Text style={[jeryVisual.itemTeks, { fontFamily: 'SourceCodePro-Regular' }]}>
-          Alvian Syah burhani{'\n'}(105841103522)
+          marwa{'\n'}(105841100122)
         </Text>
         <View style={jeryVisual.pemisah} />
         {/* --- 5 NAMA DENGAN FONT VARIABEL --- */}
         <Text style={[jeryVisual.itemTeks, { fontFamily: 'Recursive-VariableFont', fontWeight: '300' }]}>
-          Hamdani{'\n'}(105841103722)
+          fathir{'\n'}(105841102922)
         </Text>
         <Text style={[jeryVisual.itemTeks, { fontFamily: 'Epilogue-VariableFont', fontWeight: '400', fontSize: 20 }]}>
           Parwati{'\n'}(105841100622)
