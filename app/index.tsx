@@ -5,15 +5,15 @@ export default function TugasAkhirMajeri() {
     <SafeAreaView style={jeryVisual.latar}>
       <ScrollView contentContainerStyle={jeryVisual.konten}>
         <Text style={[jeryVisual.judul, { fontFamily: 'Anton-Regular' }]}>
-          Final Project - Majeri
+          Final Project - Citra
         </Text>
         <Text style={jeryVisual.subJudul}>
-          Referensi Stambuk: 105841103622
+          Referensi Stambuk: 105841101722
         </Text>
         <View style={jeryVisual.pemisah} />
         {/* --- 5 NAMA DENGAN FONT STATIS --- */}
         <Text style={[jeryVisual.itemTeks, { fontFamily: 'Anton-Regular' }]}>
-          Ali sulton s palilati{'\n'}(105841102222)
+          Muliana{'\n'}(105841103822)
         </Text>
         <Text style={[jeryVisual.itemTeks, { fontFamily: 'Merriweather-Regular', fontSize: 20 }]}>
           ahmad fathir{'\n'}(105841102922)
@@ -33,7 +33,7 @@ export default function TugasAkhirMajeri() {
           Hamdani{'\n'}(105841103722)
         </Text>
         <Text style={[jeryVisual.itemTeks, { fontFamily: 'Epilogue-VariableFont', fontWeight: '400', fontSize: 20 }]}>
-          Muliana{'\n'}(105841103822)
+          Parwati{'\n'}(105841100622)
         </Text>
         <Text style={[jeryVisual.itemTeks, { fontFamily: 'Jost-VariableFont', fontWeight: '500', color: '#333' }]}>
           Yusri Ali{'\n'}(105841117222)
